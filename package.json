@@ -1,0 +1,43 @@
+{
+  "name": "sc-te-ciuda",
+  "version": "0.0.1",
+  "description": "Una esperanza para los necesitados",
+  "productName": "Bolivia Dona",
+  "author": "rofviv <royvillarroel94@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "leaflet": "^1.6.0",
+    "leaflet.awesome-markers": "^2.0.5",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "quasar": "^1.0.0",
+    "vue-chartjs": "^3.5.0",
+    "vue2-leaflet": "^2.5.2"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
